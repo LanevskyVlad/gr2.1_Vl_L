@@ -1,0 +1,11 @@
+C:\Users\Andre\source\repos\MK\att2\9.18 console\obj\Debug\9.18 console.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\MK\att2\9.18 console\bin\Debug\9.18 console.exe.config
+C:\Users\Andre\source\repos\MK\att2\9.18 console\bin\Debug\9.18 console.exe
+C:\Users\Andre\source\repos\MK\att2\9.18 console\bin\Debug\9.18 console.pdb
+C:\Users\Andre\source\repos\MK\att2\9.18 console\bin\Debug\tools.dll
+C:\Users\Andre\source\repos\MK\att2\9.18 console\bin\Debug\ToolsConsole.dll
+C:\Users\Andre\source\repos\MK\att2\9.18 console\bin\Debug\ToolsConsole.pdb
+C:\Users\Andre\source\repos\MK\att2\9.18 console\bin\Debug\tools.pdb
+C:\Users\Andre\source\repos\MK\att2\9.18 console\obj\Debug\9.18 console.csprojResolveAssemblyReference.cache
+C:\Users\Andre\source\repos\MK\att2\9.18 console\obj\Debug\9.18 console.exe
+C:\Users\Andre\source\repos\MK\att2\9.18 console\obj\Debug\9.18 console.pdb

@@ -1,0 +1,12 @@
+c:\users\andre\source\repos\MK\att2\7.49\bin\Debug\7.49.exe.config
+c:\users\andre\source\repos\MK\att2\7.49\bin\Debug\7.49.exe
+c:\users\andre\source\repos\MK\att2\7.49\bin\Debug\7.49.pdb
+c:\users\andre\source\repos\MK\att2\7.49\bin\Debug\tools.dll
+c:\users\andre\source\repos\MK\att2\7.49\bin\Debug\tools.pdb
+c:\users\andre\source\repos\MK\att2\7.49\obj\Debug\7.49.csprojResolveAssemblyReference.cache
+c:\users\andre\source\repos\MK\att2\7.49\obj\Debug\_7._49.Form1.resources
+c:\users\andre\source\repos\MK\att2\7.49\obj\Debug\_7._49.Properties.Resources.resources
+c:\users\andre\source\repos\MK\att2\7.49\obj\Debug\7.49.csproj.GenerateResource.Cache
+c:\users\andre\source\repos\MK\att2\7.49\obj\Debug\7.49.csproj.CoreCompileInputs.cache
+c:\users\andre\source\repos\MK\att2\7.49\obj\Debug\7.49.exe
+c:\users\andre\source\repos\MK\att2\7.49\obj\Debug\7.49.pdb

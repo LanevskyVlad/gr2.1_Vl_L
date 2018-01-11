@@ -1,0 +1,14 @@
+C:\Users\Andre\source\repos\MK\att2\9.49\bin\Debug\9.49.exe.config
+C:\Users\Andre\source\repos\MK\att2\9.49\bin\Debug\9.49.exe
+C:\Users\Andre\source\repos\MK\att2\9.49\bin\Debug\9.49.pdb
+C:\Users\Andre\source\repos\MK\att2\9.49\bin\Debug\tools.dll
+C:\Users\Andre\source\repos\MK\att2\9.49\bin\Debug\ToolsGrid.dll
+C:\Users\Andre\source\repos\MK\att2\9.49\bin\Debug\ToolsGrid.pdb
+C:\Users\Andre\source\repos\MK\att2\9.49\bin\Debug\tools.pdb
+C:\Users\Andre\source\repos\MK\att2\9.49\obj\Debug\9.49.csprojResolveAssemblyReference.cache
+C:\Users\Andre\source\repos\MK\att2\9.49\obj\Debug\_9._49.Form1.resources
+C:\Users\Andre\source\repos\MK\att2\9.49\obj\Debug\_9._49.Properties.Resources.resources
+C:\Users\Andre\source\repos\MK\att2\9.49\obj\Debug\9.49.csproj.GenerateResource.Cache
+C:\Users\Andre\source\repos\MK\att2\9.49\obj\Debug\9.49.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\MK\att2\9.49\obj\Debug\9.49.exe
+C:\Users\Andre\source\repos\MK\att2\9.49\obj\Debug\9.49.pdb

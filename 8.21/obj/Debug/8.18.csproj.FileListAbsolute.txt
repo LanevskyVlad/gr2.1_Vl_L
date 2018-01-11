@@ -1,0 +1,12 @@
+c:\users\andre\source\repos\MK\att2\8.18\bin\Debug\8.18.exe.config
+c:\users\andre\source\repos\MK\att2\8.18\bin\Debug\8.18.exe
+c:\users\andre\source\repos\MK\att2\8.18\bin\Debug\8.18.pdb
+c:\users\andre\source\repos\MK\att2\8.18\bin\Debug\tools.dll
+c:\users\andre\source\repos\MK\att2\8.18\bin\Debug\tools.pdb
+c:\users\andre\source\repos\MK\att2\8.18\obj\Debug\8.18.csprojResolveAssemblyReference.cache
+c:\users\andre\source\repos\MK\att2\8.18\obj\Debug\_8._18.Form1.resources
+c:\users\andre\source\repos\MK\att2\8.18\obj\Debug\_8._18.Properties.Resources.resources
+c:\users\andre\source\repos\MK\att2\8.18\obj\Debug\8.18.csproj.GenerateResource.Cache
+c:\users\andre\source\repos\MK\att2\8.18\obj\Debug\8.18.csproj.CoreCompileInputs.cache
+c:\users\andre\source\repos\MK\att2\8.18\obj\Debug\8.18.exe
+c:\users\andre\source\repos\MK\att2\8.18\obj\Debug\8.18.pdb
